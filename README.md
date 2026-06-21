@@ -60,6 +60,18 @@ Ejercicios y trabajos prácticos realizados durante la Tecnicatura en Programaci
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRimbano&layout=compact&theme=tokyonight)
 
+
+
+### Tecnologías que más uso
+
+- JavaScript
+- Python
+- HTML
+- CSS
+- C
+- Java
+- Git / GitHub
+
 ## 📫 Contacto
 
 - Portfolio: https://portafolio-boostrap.vercel.app
@@ -67,4 +79,6 @@ Ejercicios y trabajos prácticos realizados durante la Tecnicatura en Programaci
 
 ---
 
-Hecho por Lucas Rimbano.
+Desarrollado por Lucas Rimbano con fines didácticos y de práctica profesional.
+
+Si estás buscando una solución similar, una herramienta personalizada o una página web para tu negocio, podés contactarme para trabajar en una propuesta adaptada a tus necesidades.
