@@ -57,10 +57,9 @@ Ejercicios y trabajos prácticos realizados durante la Tecnicatura en Programaci
 
 ## 📊 Estadísticas de GitHub
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRimbano&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRimbano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRimbano&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRimbano&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
 
 ### Tecnologías que más uso
